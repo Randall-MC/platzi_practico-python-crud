@@ -19,7 +19,7 @@ def draw_tree(branch_length, t):
 
 def main():
     screen = turtle.Screen()
-    screen.bgcolor("sky blue")
+    screen.bgcolor("purple")
 
     tree_turtle = turtle.Turtle()
     tree_turtle.speed(1)
