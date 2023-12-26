@@ -131,7 +131,7 @@ def welcome():
           '[U] Update client',
           '[D] Delete client',
           '[S] Search client',
-          '[E] Exit]',
+          '[E] Exit',
           '>>>', sep='\n', end=' ')
 
 
